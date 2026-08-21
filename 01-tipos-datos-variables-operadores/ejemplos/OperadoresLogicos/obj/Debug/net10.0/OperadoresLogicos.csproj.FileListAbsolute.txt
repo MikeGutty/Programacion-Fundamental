@@ -1,0 +1,14 @@
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/bin/Debug/net10.0/OperadoresLogicos
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/bin/Debug/net10.0/OperadoresLogicos.deps.json
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/bin/Debug/net10.0/OperadoresLogicos.runtimeconfig.json
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/bin/Debug/net10.0/OperadoresLogicos.dll
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/bin/Debug/net10.0/OperadoresLogicos.pdb
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.AssemblyInfoInputs.cache
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.AssemblyInfo.cs
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.dll
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/refint/OperadoresLogicos.dll
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.pdb
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/OperadoresLogicos.genruntimeconfig.cache
+/Users/mike/Projects/teaching/UNIFRANZ/ProFun/01-tipos-datos-variables-operadores/ejemplos/OperadoresLogicos/obj/Debug/net10.0/ref/OperadoresLogicos.dll
