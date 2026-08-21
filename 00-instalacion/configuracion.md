@@ -1,13 +1,13 @@
 # Guía práctica: Configuración del entorno de desarrollo en C# con .NET
 
-**Asignatura:** Programación  
-**Carrera:** Ingeniería de Sistemas
+**Asignatura:** Programación Fundamental
+**Carrera:** Ingeniería de Sistemas e Innovacion Digital
 
 ---
 
 ## 1. Objetivo
 
-Al finalizar esta guía, el estudiante será capaz de:
+Al finalizar esta guía, será capaz de:
 
 - Instalar el **.NET SDK** en su equipo.
 - Instalar **Visual Studio Code** como entorno de desarrollo.
@@ -210,7 +210,7 @@ Visual Studio Code mostrará los tipos de proyectos disponibles.
 
 Selecciona:
 
-**Console App**
+**Console App** o en español **Aplicacion de consola**
 
 Una aplicación de consola es una aplicación que permite trabajar principalmente mediante la terminal y resulta adecuada para comenzar a aprender los fundamentos de C#.
 
@@ -364,54 +364,7 @@ Mi primer programa en .NET
 
 ---
 
-# 12. Primera actividad práctica
-
-## Actividad: Presentación por consola
-
-Crea un programa de consola llamado:
-
-```text
-DatosEstudiante
-```
-
-El programa debe mostrar en la consola información básica de un estudiante.
-
-Por ejemplo:
-
-```text
-==============================
-      DATOS DEL ESTUDIANTE
-==============================
-
-Nombre: Juan Pérez
-Carrera: Ingeniería de Sistemas
-Materia: Programación
-Semestre: 1
-
-==============================
-```
-
-### Requisitos
-
-El programa debe utilizar:
-
-- `Console.WriteLine()`
-- Al menos **5 instrucciones** para mostrar información.
-- Una presentación ordenada utilizando separadores.
-
-### Desafío adicional
-
-Investiga cómo utilizar:
-
-```csharp
-Console.Write()
-```
-
-y explica brevemente cuál es la diferencia entre `Console.Write()` y `Console.WriteLine()`.
-
----
-
-# 13. Comandos básicos de .NET
+# 12. Comandos básicos de .NET
 
 Durante las siguientes clases utilizaremos frecuentemente los comandos de .NET.
 
@@ -459,9 +412,9 @@ dotnet clean
 
 ---
 
-# 14. Comprobación final
+# 13. Comprobación final
 
-Antes de finalizar la actividad, verifica que puedes realizar lo siguiente:
+Puedes verificar que puedes realizar lo siguiente:
 
 - [ ] Tengo instalado el .NET SDK.
 - [ ] El comando `dotnet --version` funciona correctamente.
@@ -476,22 +429,6 @@ Antes de finalizar la actividad, verifica que puedes realizar lo siguiente:
 
 ---
 
-# 15. Resultado esperado
-
-Al finalizar esta guía, el estudiante deberá contar con un **entorno de desarrollo funcional para C# y .NET**, además de haber creado y ejecutado su primer programa de consola.
-
-Este entorno será utilizado en las siguientes actividades de la asignatura de **Programación** para trabajar conceptos como:
-
-- Tipos de datos.
-- Variables.
-- Operadores.
-- Expresiones.
-- Estructuras de control.
-- Métodos.
-- Programación orientada a objetos.
-
----
-
 ## Recursos oficiales
 
 - [.NET — Sitio oficial](https://dotnet.microsoft.com/)
@@ -500,9 +437,3 @@ Este entorno será utilizado en las siguientes actividades de la asignatura de *
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [C# en Visual Studio Code](https://code.visualstudio.com/docs/csharp/get-started)
 - [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
-
----
-
-**Docente:** __________________________  
-**Asignatura:** Programación  
-**Carrera:** Ingeniería de Sistemas
