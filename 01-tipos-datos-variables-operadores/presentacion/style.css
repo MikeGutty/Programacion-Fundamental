@@ -1,0 +1,8 @@
+/* .slidev-layout.two-columns {
+  gap: 0.5rem;
+} */
+
+.slidev-layout.two-columns .col-left,
+.slidev-layout.two-columns .col-right {
+  padding: 0 0.5rem;
+}
