@@ -1,0 +1,9 @@
+.code-compact {
+  max-height: 44vh;
+  overflow-y: auto;
+}
+.code-compact pre {
+  font-size: 13px !important;
+  line-height: 1.25 !important;
+  padding: 0.75rem !important;
+}
