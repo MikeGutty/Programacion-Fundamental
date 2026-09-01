@@ -42,14 +42,13 @@ Cada módulo temático contiene su respectiva **presentación**, **guía teóric
 ```text
 programacion/
 ├── 00-instalacion/                         # Guías de configuración de entorno
-├── 01-fundamentos-programacion/            # Introducción y sintaxis inicial
-├── 02-tipos-datos-variables-operadores/    # Variables y operaciones
-├── 03-estructuras-control/                 # Sentencias de control de flujo
-├── 04-metodos/                             # Modularización y funciones
-├── 05-arreglos-colecciones/                # Gestión de datos en memoria
-├── 06-programacion-orientada-objetos/      # Conceptos básicos de POO
-├── 07-excepciones-archivos/                # Manejo de errores y persistencia
-├── 08-proyecto/                            # Pautas y guía del proyecto integrador
+├── 01-tipos-datos-variables-operadores/    # Variables y operaciones
+├── 02-estructuras-control/                 # Sentencias de control de flujo
+├── 03-metodos/                             # Modularización y funciones
+├── 04-arreglos-colecciones/                # Gestión de datos en memoria
+├── 05-programacion-orientada-objetos/      # Conceptos básicos de POO
+├── 06-excepciones-archivos/                # Manejo de errores y persistencia
+├── 07-proyecto/                            # Pautas y guía del proyecto integrador
 ├── recursos/                               # Diagramas, imágenes y lecturas de apoyo
 └── proyectos/                              # Proyectos y prácticas evaluativas
 ```
