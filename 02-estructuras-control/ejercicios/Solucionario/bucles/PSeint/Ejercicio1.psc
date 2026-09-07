@@ -1,14 +1,13 @@
-Algoritmo NumeroParImpar
+Algoritmo TablaMultiplicar
 	
-	Definir numero Como Entero
+	Definir numero, i, resultado Como Entero
 	
-	Escribir "Ingrese un número entero:"
+	Escribir "Ingrese un nÃºmero entero:"
 	Leer numero
 	
-	Si numero MOD 2 = 0 Entonces
-		Escribir "El número ", numero, " es par"
-	SiNo
-		Escribir "El número ", numero, " es impar"
-	FinSi
+	Para i <- 1 Hasta 10 Con Paso 1 Hacer
+		resultado <- numero * i
+		Escribir numero, " x ", i, " = ", resultado
+	FinPara
 	
 FinAlgoritmo

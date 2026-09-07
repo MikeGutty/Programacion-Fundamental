@@ -1,11 +1,8 @@
 ﻿Console.Write("Ingrese un número entero: ");
 int numero = int.Parse(Console.ReadLine());
 
-if (numero % 2 == 0)
+for (int i = 1; i <= 10; i++)
 {
-    Console.WriteLine($"El número {numero} es par");
-}
-else
-{
-    Console.WriteLine($"El número {numero} es impar");
+    int resultado = numero * i;
+    Console.WriteLine($"{numero} x {i} = {resultado}");
 }
