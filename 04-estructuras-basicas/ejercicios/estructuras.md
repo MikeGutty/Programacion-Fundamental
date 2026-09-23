@@ -1,4 +1,4 @@
-# Taller de Structs en C#: Organizando datos como profesionales
+# Ejercicios Prácticos - Tema 5.2: Estructuras Basicas
 
 ¡Bienvenido/a al mundo de los structs! Hasta ahora guardabas datos sueltos en variables; hoy aprenderás a **agruparlos en una sola "ficha"** que represente algo real: un estudiante, un producto o un punto en un mapa. Verás que tu código se vuelve más ordenado, más claro y mucho más parecido a los programas que se usan en la vida real. ¡Manos a la obra!
 
