@@ -156,15 +156,3 @@ Cumpleaños en el mes 3:
 - Luis (día 15)
 - Pedro (día 22)
 ```
-
----
-
-## Criterios de evaluación sugeridos
-
-| Ejercicio | Qué se evalúa | Peso sugerido |
-|-----------|---------------|---------------|
-| **1. La ficha del estudiante** | Declaración correcta del struct; asignación y lectura de campos con el operador punto; conversión de tipos al leer datos; salida clara y ordenada. | 15 % |
-| **2. Distancia entre dos puntos** | Uso de structs como parámetros; método estático con retorno correcto; aplicación de la fórmula con `Math`; formato de salida con decimales. | 20 % |
-| **3. Inventario de la tienda** | Uso de arreglos de structs; recorrido con `for` para llenar y mostrar; cálculo correcto del acumulado y del máximo; claridad en la presentación. | 30 % |
-| **4. Agenda de cumpleaños** | Anidación correcta de structs; acceso a campos en varios niveles; lógica de búsqueda con condicional y bandera; uso adecuado de un método con arreglo como parámetro. | 35 % |
-| **Transversal (todos)** | Nombres de variables descriptivos, código indentado y legible, comentarios breves y ausencia de conceptos no permitidos. | Incluido en cada ejercicio |
