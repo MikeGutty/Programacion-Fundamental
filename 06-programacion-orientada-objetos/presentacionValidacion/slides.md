@@ -463,7 +463,7 @@ flowchart TD
 
 <div class="mt-4 text-sm opacity-80">
 
-💾 El código completo está en el archivo **Program.cs** que les voy a compartir.
+💾 El código completo está en los archivos del proyecto (**Program.cs**, **Estudiante.cs**, **ValidadorEstudiante.cs**...) que les voy a compartir.
 
 </div>
 
